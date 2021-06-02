@@ -1,4 +1,4 @@
-# compare-pdf-api
+# pdf-compare-api
 
 ```
 docker build --tag pdf-compare .
